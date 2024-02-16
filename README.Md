@@ -36,7 +36,7 @@ Both Random Forest Regressor and Decision Tree Regressor models use features 'Up
 
 #### Random Forest
 
-#### Performance Metrics
+##### Performance Metrics
 
 - Mean Absolute Error (MAE): {mae}
 - Mean Squared Error (MSE): {mse}
@@ -45,7 +45,7 @@ Both Random Forest Regressor and Decision Tree Regressor models use features 'Up
 
 #### Decision Tree
 
-#### Performance Metrics
+##### Performance Metrics
 
 - Mean Absolute Error (MAE): {mae}
 - Mean Squared Error (MSE): {mse}
@@ -59,26 +59,30 @@ Both Random Forest Regressor and Decision Tree Regressor models use features 'Up
 ```bash
 git clone https://github.com/Razib91lightspeed/House-Price-Prediction-Model.git
 ```
-2.
+
+2. Change to the project directory:
+
 ```bash
 cd Finland-House-Price-Prediction
 ```
-3.
+
+3. Install the required dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Run the Jupyter Notebook
+4. Run the Jupyter Notebook:
 
 ```bash
 jupyter notebook
 ```
-```
-4. Open this program using Sprider IDE
-Spide
 
-5. Explore the FinlandHousePricePrediction.ipynb notebook for a detailed walkthrough of the model implementation.
+5. Open this program using Spider IDE
+- Spider
+
+6. Explore the FinlandHousePricePrediction.ipynb notebook for a detailed walkthrough of the model implementation.
 
 ## Contributors
-Razib Hasan
-Huang Xiaosi
+- Razib Hasan
+- Huang Xiaosi
